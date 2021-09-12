@@ -1,14 +1,14 @@
 {
-  "name": "music_bot",
-  "version": "1.0.0",
+  "name": "Lyx-Stable",
+  "version": "3.7.0",
   "description": "This is a Discord Music Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Akshit Gupta",
-  "license": "ISC",
+  "author": "Lukas Döring",
+  "license": "Boost",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "discord.js": "^12.5.1",
